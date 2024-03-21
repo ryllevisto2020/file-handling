@@ -1,4 +1,4 @@
-File Handling Api (VB.Net Only)
+File Handling Api (VB & C#)
 
 For Copy and Move of Files
 
